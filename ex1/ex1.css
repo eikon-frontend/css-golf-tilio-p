@@ -1,10 +1,19 @@
 /* 🦊 Créez vos styles ici */
 /* Colors: #5d3a3a, #b5e0ba  */
 
-h1 {
-    color: #5d3a3a;
+.carré_vert {
+    background-color: #b5e0ba;
+    width: 200px;
+    height: 200px;
+    position: absolute;
 }
 
-p {
-    color: #b5e0ba;
+.carré_rouge {
+    background-color: #5d3a3a;
+    width: 400px;
+    height: 300px;
+}
+
+.container {
+    position: relative;
 }
