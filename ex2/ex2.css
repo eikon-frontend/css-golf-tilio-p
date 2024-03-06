@@ -1,2 +1,17 @@
 /* 🦊 Créez vos styles ici */
 /* Colors: #62374e, #fdc57b  */
+
+.carres_verts {
+    background-color: #fdc57b;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.carre_rouge {
+    background-color: #62374e;
+    width: 400px;
+    height: 300px;
+}
