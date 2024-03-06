@@ -8,7 +8,7 @@
     position: absolute;
 }
 
-.carré_rouge {
+.carré_rouge div {
     background-color: #5d3a3a;
     width: 400px;
     height: 300px;
